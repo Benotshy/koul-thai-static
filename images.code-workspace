@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../../pdf2png (1)/images"
+		},
+		{
+			"name": "koul-thai",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "koul-thai"
+	}
+}
